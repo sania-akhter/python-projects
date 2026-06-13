@@ -1,7 +1,7 @@
 # python-projects
 This repository contains Python mini projects built while learning programming and problem-solving.
 
-# About this repo
+# About This Repo
 -I am learning Python step by step
 -I use this repo to practice coding
 -I upload small beginner projects here
